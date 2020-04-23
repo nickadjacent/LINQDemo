@@ -1,0 +1,11 @@
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/bin/Debug/netcoreapp2.2/LinqDemo.deps.json
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/bin/Debug/netcoreapp2.2/LinqDemo.runtimeconfig.json
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/bin/Debug/netcoreapp2.2/LinqDemo.runtimeconfig.dev.json
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/bin/Debug/netcoreapp2.2/LinqDemo.dll
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/bin/Debug/netcoreapp2.2/LinqDemo.pdb
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/obj/Debug/netcoreapp2.2/LinqDemo.csprojAssemblyReference.cache
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/obj/Debug/netcoreapp2.2/LinqDemo.csproj.CoreCompileInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/obj/Debug/netcoreapp2.2/LinqDemo.AssemblyInfoInputs.cache
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/obj/Debug/netcoreapp2.2/LinqDemo.AssemblyInfo.cs
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/obj/Debug/netcoreapp2.2/LinqDemo.dll
+/Users/cthulhu/Documents/Dojo/C#/ORM/LinqDemo/obj/Debug/netcoreapp2.2/LinqDemo.pdb
